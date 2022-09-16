@@ -1,4 +1,4 @@
-# NLW eSports 
+# 🎮 NLW eSports 
 
 ![preview](./.github/preview.png)
 
@@ -25,3 +25,4 @@ Projeto construído no evento *Next Level Week* da **Rocketseat**.
 
 - **Email:** mariaeduarda.rodrigues14@outlook.com
 - **Linkedin:** https://www.linkedin.com/in/maria-eduarda-rodrigues-silva-20601b21a/
+
